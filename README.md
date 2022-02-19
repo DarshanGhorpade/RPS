@@ -4,10 +4,13 @@
 # Group Members
 1. Chaitanya Bhargav N 
 2. Darshan Ghorpade
+3. Abhitesh Kumar
 
 # Azure services used in project 
 1. Azure Static Web App
-    (what is benefit of using  Azure Static Web App)
+    Azure Static Web Apps allows you to build modern web applications that automatically 
+    publish to the web as your code changes.
+    
 
 # [Go to Rock,Paper and Scissors game](https://zealous-river-09636a810.1.azurestaticapps.net/)
 
