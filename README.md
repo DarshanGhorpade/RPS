@@ -5,6 +5,7 @@
 1. Chaitanya Bhargav N 
 2. Darshan Ghorpade
 3. Abhitesh Kumar
+4. Tushar Jayant
 
 # Azure services used in project 
 1. Azure Static Web App
@@ -18,7 +19,7 @@
 <img src="https://github.com/nallapu27/Rock-Paper-and-Scissors-Game/blob/main/Game%20screenshots/Game%20screenshots/Game%20page%20Screenshot.png" height=400 width=1000 />
 <img src="https://github.com/nallapu27/Rock-Paper-and-Scissors-Game/blob/main/Game%20screenshots/Game%20screenshots/Result%20declaration%20Screenshot.png" height=400 width=1000/>
 
-# **Description of the Game**:
+# **Description of the Rock Paper Scissors Game**:
 - Rock,Paper and Scissors is a fun game where there is a single player in this game whose opponent is computer in this game.
 - The player in this game chooses any of the three options Rock or Paper or Scissors and accordingly the computer randomly generates an option at the same time.
 - Depending upon both the player and computer options and based on the game logic the result is declared as either player or computer is won or may be a tie.
