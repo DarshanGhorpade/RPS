@@ -1,6 +1,14 @@
 # Rock-Paper-and-Scissors-Game
 -Fun game with good user expereince
 
+# Group Members
+1. Chaitanya Bhargav N 
+2. Darshan Ghorpade
+
+# Azure services used in project 
+1. Azure Static Web App
+    (what is benefit of using  Azure Static Web App)
+
 # [Go to Rock,Paper and Scissors game](https://zealous-river-09636a810.1.azurestaticapps.net/)
 
 <img src="https://github.com/nallapu27/Rock-Paper-and-Scissors-Game/blob/main/Game%20screenshots/Game%20screenshots/Game%20Home%20page.png" height=400 width=1000 />
